@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Harsha :)</h1>
-
-###
+<h3 align="center">Second Year IT undergrad at Pune Institute Of Computer Technnlology, Pune. I hold strong interest in Competitive Programming and a good command over flutter app development.</h3>
 
 <br clear="both">
 
