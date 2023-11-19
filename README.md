@@ -11,9 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hharshapareekk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-- <h2 align="left">📫 How to reach me:</h2>
--  Mail id :**harshapareek14@gmail.com**
--  Linkedin : **https://www.linkedin.com/in/harshapareek/**
+- <h2 align="left">📫 Contact me:</h2>
+-  Mail id : **harshapareek14@gmail.com**
+-  LinkedIn : **https://www.linkedin.com/in/harshapareek/**
 
 ###
 
@@ -36,6 +36,6 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/harshapareek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshapareek" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/procomder_101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshaap" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/procoder_hp14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshaap" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshapareek/"><img src="https://i.ibb.co/8KmxB7C/icons8-linkedin-48.png" alt="icons8-linkedin-48" border="10"></a>
+<a href="https://www.codechef.com/users/procomder_101"><img src="https://i.ibb.co/gzVHSQT/icons8-codechef-50.png" alt="icons8-codechef-50" border="20"></a>
+<a href="https://codeforces.com/profile/procoder_hp14"><img src="https://i.ibb.co/Q93cqfw/icons8-codeforces-programming-competitions-and-contests-programming-community-48.png" alt="icons8-codeforces-programming-competitions-and-contests-programming-community-48" border="10"></a>
