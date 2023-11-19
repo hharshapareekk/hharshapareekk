@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://ibb.co/x2Cd1bX"><img src="https://i.ibb.co/QJbtPVp/Study.jpg" alt="Study" border="0"></a>
+    <a href="https://ibb.co/LY0j9W7"><img src="https://i.ibb.co/8NmvPpZ/study-inspo.jpg" alt="study-inspo" border="0"></a>
 </div>  
 
 <h1 align="center">Hey, I'm Harsha :)</h1>
