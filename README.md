@@ -1,7 +1,3 @@
-<div align="center">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/tMxV37J/Download.jpg" alt="cover img" border="0"></a>
-</div>  
-
 <h1 align="center">Hey, I'm Harsha :)</h1>
 
 ###
