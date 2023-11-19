@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hharshapareekk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+- 📫 How to reach me **harshapareek14@gmail.com**
+
 ###
 
 <div align="left">
@@ -28,3 +30,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
+
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/harshapareek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshapareek" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/procomder_101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshaap" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/procoder_hp14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshaap" height="30" width="40" /></a>
