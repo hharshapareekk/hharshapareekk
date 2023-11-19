@@ -11,7 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hharshapareekk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-- 📫 How to reach me **harshapareek14@gmail.com**
+- <h2 align="left">📫 How to reach me:</h2>
+-  Mail id :**harshapareek14@gmail.com**
+-  Linkedin : **https://www.linkedin.com/in/harshapareek/**
 
 ###
 
