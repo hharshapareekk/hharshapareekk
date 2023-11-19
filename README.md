@@ -1,3 +1,6 @@
+<div align="center">
+    <a href="https://ibb.co/x2Cd1bX"><img src="https://i.ibb.co/QJbtPVp/Study.jpg" alt="Study" border="0"></a>
+</div>  
 
 <h1 align="center">Hey, I'm Harsha :)</h1>
 
