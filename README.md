@@ -31,9 +31,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/harshapareek/"><img src="https://i.ibb.co/8KmxB7C/icons8-linkedin-48.png" alt="icons8-linkedin-48" border="10"></a>
-<a href="https://www.codechef.com/users/procomder_101"><img src="https://i.ibb.co/gzVHSQT/icons8-codechef-50.png" alt="icons8-codechef-50" border="20"></a>
-<a href="https://codeforces.com/profile/procoder_hp14"><img src="https://i.ibb.co/Q93cqfw/icons8-codeforces-programming-competitions-and-contests-programming-community-48.png" alt="icons8-codeforces-programming-competitions-and-contests-programming-community-48" border="10"></a>
