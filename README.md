@@ -25,6 +25,10 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><br/>
       Python
     </td>
+     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/><br/>
+      Dart
+    </td>
   </tr>
   <tr>
      <td align="center">
@@ -32,27 +36,24 @@
       Flutter
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/><br/>
-      Dart
-    </td>
-    <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><br/>
       NodeJS
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/><br/>
       MongoDB
     </td>
+     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/><br/>
+      Figma
+    </td>
+  </tr>
+  <tr> 
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/><br/>
       Blender
     </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/><br/>
-      Figma
-    </td>
+   
     
   </tr>
 </table>
