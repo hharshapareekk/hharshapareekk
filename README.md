@@ -58,7 +58,9 @@
   </tr>
 </table>
 
-<img  align=right src="https://komarev.com/ghpvc/?username=hharshapareekk&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hharshapareekk/count.svg?"  />
+</div>
 
 ---
 
