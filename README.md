@@ -58,5 +58,9 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hharshapareekk/count.svg?"  />
+</div>
+
 ---
 
